@@ -30,11 +30,11 @@
 
 <h3 align="center">☁ Certifications & More</h3>
 <p align="center">
-  <a href="">
+  <a href="https://www.credly.com/badges/20e53a41-3b74-4e3b-b6aa-381172ec8c40/public_url">
     <img src="resources/cert/aws-academy-graduate-aws-academy-cloud-foundations.png" width="100px" alt="AWS Academy Cloud Foundations"/>
   </a>
-  <a href="">
-    <img src="resources/cert/cisco-networking-basics.png" width="90px" alt="Cisco Networking Basics"/>
+  <a href="https://www.credly.com/badges/d3a1fcd2-f88a-4e33-8a88-9968013108d4/public_url">
+    <img src="resources/cert/networking-basics.png" width="90px" alt="Cisco Networking Basics"/>
   </a>
 </p>
 
