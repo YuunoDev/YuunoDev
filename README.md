@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm YuunoDev</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
+---
+
+✨ **Technology Enthusiast | Java & Cloud Explorer**  
+
+- 🎓 Currently studying **Computer Science (ISC)** at UAA <img src="resources/uaa-logo.png" alt="UAA Logo" width="20px" align="center"/> 
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuunodev&label=Profile%20views&color=0e75b6&style=flat" alt="yuunodev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuunodev" alt="yuunodev" /></a> </p>
@@ -18,6 +25,16 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,c,cs,cpp,html,css,linux,mint,mysql,nodejs,php,postman,py,unity,vscode" />
+  </a>
+</p>
+
+<h3 align="center">☁ Certifications & More</h3>
+<p align="center">
+  <a href="">
+    <img src="resources/cert/aws-academy-graduate-aws-academy-cloud-foundations.png" width="100px" alt="AWS Academy Cloud Foundations"/>
+  </a>
+  <a href="">
+    <img src="resources/cert/cisco-networking-basics.png" width="90px" alt="Cisco Networking Basics"/>
   </a>
 </p>
 
